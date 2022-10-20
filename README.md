@@ -38,4 +38,6 @@ server.listen(port, () => {
     console.log(`Servidor escutando em http://localhost:${port}`);
 });
 ```
+No terminal npm run start 
+
 Caso você suba para o GitHub seu código, não se esqueça de criar um arquivo chamado `.gitignore`  e nele colocar `node_modules` .
