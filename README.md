@@ -1,4 +1,5 @@
-# Servidor local com HTTP
+# Servidor local com HTTP 
+Obs: Você precisa ter o Node instalado
 <ul>
  <li>Crie uma pasta onde para seu projeto</li>
   <li>Digite o comando npm init -y</li>
