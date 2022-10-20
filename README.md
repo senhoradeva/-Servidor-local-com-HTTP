@@ -37,4 +37,4 @@ server.listen(port, () => {
     console.log(`Servidor escutando em http://localhost:${port}`);
 });
 ```
-Caso você suba para o GitHub seu código, não se esqueça de criar um arquivo chamado <b>.gitignore</b> e nele colocar ```Jsx node_modules```
+Caso você suba para o GitHub seu código, não se esqueça de criar um arquivo chamado  ```Jsx .gitignore```  e nele colocar ```Jsx node_modules```
